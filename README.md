@@ -1,2 +1,2 @@
 # BPSU Industrial Engineering Merch Shop
-  A BSIE merch online shop for all the IE students at BPS University.
+  A BSIE students merch online shop including shirts, bags, etc. for all enrolled IE students in BPS University. 
